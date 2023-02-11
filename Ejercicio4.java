@@ -1,6 +1,5 @@
 import java.util.Scanner;
 public class Ejercicio4 {
-    //genera un algoritmo que calcule la velocidad media de desplazamiento de usuario
     //declaracion de variables
     public static double distancia;
     public static double tiempo;
@@ -19,5 +18,12 @@ public class Ejercicio4 {
         //imprimir la velocidad
         System.out.println("La velocidad media es: " + velocidad + " km/h");
         }
-
 }
+/*
+al ejecutar el programa se obtiene la velocidad en relación a kilómetros recorridos y el tiempo que tarda en hacerlos. Ejemplo:
+Introduce la distancia recorrida en km:
+370 km
+Introduce el tiempo empleado en horas:
+4 horas
+La velocidad media es: 92.5 km/h
+*/
