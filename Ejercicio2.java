@@ -13,3 +13,9 @@ public class Ejercicio2 {
         System.out.println(valor1 + " # " + CST);
     }
 }
+
+/*
+al ejecutar el programa se obtiene el siguiente resultado:
+ Test , valor2 = 4
+ 4 # 49.78
+*/
