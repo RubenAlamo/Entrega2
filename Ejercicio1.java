@@ -14,3 +14,9 @@ public static void main(String[] args) {
     System.out.println("a = " + a + " b = " + b);
     }
 }
+/*
+al ejecutar el programa se obtiene el siguiente resultado:
+a = 3
+a = 3 b = 8
+a = 7 b = 8
+*/
