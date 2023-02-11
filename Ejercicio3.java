@@ -15,3 +15,12 @@ public static void main(String[] args) {
     System.out.println("Valor 1: " + valor1 + " Valor 2: " + valor2);
     }
 }
+
+/*
+al ejecutar el programa se obtiene el siguiente resultado: (Ejemplo)
+Introduce el primer valor:
+3
+Introduce el segundo valor:
+5
+Valor 1: 3.0 Valor 2: 5.0
+*/
