@@ -1,11 +1,11 @@
 import java.util.Scanner;
 public class Ejercicio3 {
-    //declaracion de variables estaticas
+    //declaración de variables estaticas
     public static double valor1;
     public static double valor2;
 
 public static void main(String[] args) {
-    //declaracion de la clase Scanner y asignacion de valores a las variables
+    //declaración de la clase Scanner y asignación de valores a las variables
     Scanner sc = new Scanner(System.in);
     System.out.println("Introduce el primer valor: ");
     valor1 = sc.nextDouble();
